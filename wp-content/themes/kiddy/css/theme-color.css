@@ -1,0 +1,273 @@
+/* MAIN COLOR */
+.item .date:before,
+.item .date .month,
+.cws_button:hover,
+input[type='submit']:hover,
+.page_footer .cws_button,
+.page_footer .button,
+.page_footer input[type='submit'],
+.copyrights_area .cws_button,
+.copyrights_area input[type='submit'],
+blockquote,
+table thead th,
+.pagination .page_links>.page-numbers.current:before,
+.pagination .page_links>span:not(.dots):before,
+.gallery-icon a:before,
+.pricing_table_column .top_section,
+.pricing_table_column.active_table_column .btn_section>a,
+.pricing_table_column.active_table_column .separate,
+.pricing_table_column:hover .separate,
+.tabs .tab,
+.accordion_title .accordion_icon,
+.accordion_section.active .accordion_title,
+.cws_tweet .tweet-icon:before,
+.cws_progress_bar .progress,
+.cws_fa_wrapper .cws_fa:not(.alt),
+a:hover>.cws_fa_wrapper .cws_fa.alt,
+.cws_button.alt>span,
+.testimonial,
+.cws-widget .search-form:before,
+.owl-pagination .owl-page,
+#recentcomments>.recentcomments:before,
+.comments-area .comment_list .reply .comment-reply-link:hover,
+.comments-area .comment-respond .comment-form .submit,
+.cws_ourteam .cws_ourteam_items .social_links a,
+.news .media_part.only_link,
+.mini-cart,
+.mini-cart .button,
+input[type="radio"]:checked:before,
+.pic .links a,
+.site_top_panel .cws_social_links:after,
+.copyrights_area .cws_social_links .cws_social_link,
+.copyrights_area .lang_bar ul ul,
+.cws_callout,
+.site_top_panel .site_top_panel_toggle:before,
+.site_top_panel .site_top_panel_toggle:after,
+.footer_container .woocommerce-product-search:before,
+.scroll_top{
+	background-color: #cws_theme_color#;
+}
+.footer_wrapper_copyright{
+	background-color: #cws_theme_footer_color#;
+}
+.tp-leftarrow.round,
+.tp-rightarrow.round,
+.rev_slider_wrapper{
+	background-color: #cws_theme_color# !important;
+}
+.news .media_part,
+.cws_ourteam_items .media_part,
+.post_info,
+.news .media_part,
+.cws_img_frame, 
+img[class*="wp-image-"],
+.gallery-icon,
+.pricing_table_column,
+.pricing_table_column .top_section:after,
+.accordion_title,
+.accordion_content,
+.carousel_header .carousel_nav i,
+.cws_portfolio_items .item .media_part,
+.carousel_nav_panel .prev,
+.carousel_nav_panel .next,
+.cws_fa_wrapper:hover>a>i + .ring,
+a:hover>.cws_fa_wrapper>i:not(.alt) + .ring,
+.cws_button.alt:hover,
+.cws_oembed_wrapper,
+.bordered,
+.cws-widget .portfolio_item_thumb .pic,
+.select2-container .select2-choice .select2-arrow,
+.post_item .post_thumb_wrapp,
+#recentcomments>.recentcomments,
+.flxmap-container,
+.wp-playlist .mejs-container,
+.lang_bar>div:not(.lang_sel_list_vertical):not(.lang_sel_list_horizontal)>ul:before{
+	border-color: #cws_theme_color#;
+}
+.select2-choice,
+.select2-container--default .select2-selection--single{
+	border-color: #cws_theme_color# !important;
+}
+.select2-drop, 
+.select2-drop-active{
+	border-color: #cws_theme_color# !important;
+}
+.post_info,
+.info i,
+.post_info>*>i,
+.post_info .comments_link a,
+ul li:before,
+.carousel_header .carousel_nav i,
+.carousel_nav_panel .prev,
+.carousel_nav_panel .next,
+.cws_progress_bar .pb_title .indicator,
+.select2-container .select2-choice .select2-arrow,
+.comments-area .comment_list .comment-meta .author-name,
+.cws_milestone,
+.copyrights_container,
+.mini-cart .total>*,
+input[type=checkbox]:checked:before,
+.banner_404,
+.msg_404 span,
+.cws_tweet:before,
+.cws_fa_wrapper .cws_fa.alt,
+.site_top_panel #top_panel_links .share-toggle-button,
+.site_top_panel .cws_social_links .cws_social_link,
+.site_top_panel #top_panel_links .search_icon,
+.site_top_panel .mini-cart{
+	color: #cws_theme_color#;
+}
+
+/* MENU COLOR */
+.header_logo_part.with_border .logo,
+.main-nav-container .menu-item a,
+.main-nav-container .menu-item:hover>.sub-menu>.menu-item,
+.mobile_nav .menu-item,
+.item .date .springs:before,
+.item .date .springs:after,
+.cws_button,
+input[type='submit'],
+.page_footer .cws_button:hover,
+.page_footer .button:hover,
+.page_footer input[type='submit']:hover,
+.copyrights_area .cws_button:hover,
+.copyrights_area input[type='submit']:hover,
+.cws_callout .button_section>a:hover,
+.pricing_table_column:hover .top_section,
+.pricing_table_column.active_table_column .top_section,
+.pricing_table_column.active_table_column .btn_section>a:hover,
+.pricing_table_column .separate,
+.tabs .tab.active,
+.accordion_section.active .accordion_icon,
+.separate,
+.cws_fa_wrapper:hover>a .cws_fa,
+a:hover>.cws_fa_wrapper .cws_fa:not(.alt),
+.cws_button.alt:hover>span,
+.dropcap,
+.cws-widget .widget-title:after,
+.cws-widget #wp-calendar tbody td#today,
+.owl-pagination .owl-page.active,
+.comments-area .comment_list .reply .comment-reply-link,
+.comments-area .comment-respond .comment-form .submit:hover,
+.cws_ourteam .cws_ourteam_items .social_links a:hover,
+.mini-cart .button:hover,
+.mini-cart:hover,
+.site_top_panel .cws_social_links.expanded:after,
+.pic .links .link a,
+.pic .links .link-item-bounce,
+.pic .links .link-toggle-button,
+.pic .links_popup .link a,
+.pic .links_popup .link span,
+.pic .links_popup .link-item-bounce,
+.pic .links_popup .link-toggle-button,
+.cws_img_frame:after,
+.gallery-icon a:after,
+.mobile_menu_header .mobile_menu_switcher,
+.post_item .post_thumb_wrapp .links span,
+.ce_toggle.alt .accordion_section .accordion_content, 
+.ce_accordion.alt .accordion_section .accordion_content,
+body.wave-style hr,
+.item .date.def_style .month:before,
+.scroll_top:hover{
+	background-color: #cws_menu_color#;
+}
+.cws-widget .search-form{
+	background-color: #cws_menu_color# !important;
+}
+.bees:after,
+.item .date,
+.pricing_table_column:hover,
+.pricing_table_column.active_table_column,
+.pricing_table_column:hover .top_section:after,
+.pricing_table_column.active_table_column .top_section:after,
+.cws_tweet .tweet-icon,
+.cws_fa_wrapper .ring,
+.cws_button.alt,
+.comments-area .comment_list .avatar,
+.comments-area .comment-respond,
+.tp-leftarrow.round,
+.tp-rightarrow.round,
+.site_top_panel form.search-form .search-field,
+.testimonial .author img{
+	border-color: #cws_menu_color#;
+}
+.post_info a,
+.post_info>*,
+.info,
+.post_info .v_sep,
+.bread-crumbs .delimiter,
+blockquote:before,
+blockquote:after,
+.carousel_header .carousel_nav i:hover,
+.carousel_nav_panel .prev:hover,
+.carousel_nav_panel .next:hover,
+.cws_progress_bar .pb_title,
+.testimonial .quote .quote_link,
+.testimonial .quote + .author>.dott>span:first-child,
+.testimonial .quote + .author>.dott>span:last-child,
+.testimonial:before,
+.testimonial:after,
+#recentcomments .comment-author-link a,
+.comments-area .comment_list .comment-meta .comment_date,
+.comments-area .required,
+.cws_ourteam:not(.single) .cws_ourteam_items .positions a,
+.footer_container .cws-widget .post_item .post_date,
+.footer_container .post-date,
+.woo_mini_cart .total>.amount,
+.banner_404 span,
+.cws_tweet .tweet_date,
+.p_cut,
+.news .more-link,
+.site_top_panel.show-search #top_panel_links .search_icon,
+.site_top_panel .mini-cart:hover,
+.footer_container ul.product_list_widget li a,
+.footer_container ul.product_list_widget ins,
+.footer_container ul.product_list_widget span.amount{
+	color: #cws_menu_color#;
+}
+
+/* MENU COLOR HOVER */
+.main-nav-container .menu-item:hover>a,
+.header_nav_part.mobile_nav .main-nav-container .menu-item.current-menu-ancestor,
+.header_nav_part.mobile_nav .main-nav-container .menu-item.current-menu-item,
+.main-nav-container .menu-item.current-menu-ancestor>a,
+.main-nav-container .menu-item.current-menu-item>a,
+.main-nav-container .sub-menu .menu-item:hover>a,
+.main-nav-container .sub-menu .menu-item.current-menu-ancestor>a,
+.main-nav-container .sub-menu .menu-item.current-menu-item>a,
+.cws_callout .button_section>a:hover{
+	background-color: #cws_menu_color_hover#; 
+}
+.main-nav-container .menu-item:hover>a>.bees:after,
+.main-nav-container .menu-item.current-menu-item>a>.bees:after,
+.main-nav-container .menu-item.current-menu-ancestor>a>.bees:after,
+.header_logo_part.with_border .logo{
+	border-color: #cws_menu_color_hover#; 
+}
+
+
+
+/* OUTLINE COLOR */
+.pagination .page_links>*,
+.pagination .page_links>.page-numbers.current:after,
+.pagination .page_links>span:not(.dots):after,
+.cws-widget #wp-calendar td,
+.benefits_area{
+	background: #cws_theme_outline_color#;
+}
+canvas.separator{
+	color: #cws_theme_outline_color#;
+}
+.page_title.flat{
+	border-color: #cws_theme_outline_color#;
+}
+
+/* SECONDARY COLOR */
+canvas.breadcrumbs{
+	color: #cws_theme_secondary_color#;
+}
+.page_title.flat{
+	background: #cws_theme_secondary_color#;
+}
+
+
