@@ -1,0 +1,181 @@
+.redux-main input.large-text,
+input.large-text, 
+textarea.large-text{
+	max-width: 800px;
+}
+.redux-container #redux-header {
+	background:url("../../img/framework_added_img/background.png") repeat !important;
+	border: none;
+	padding: 0 10px 0 30px;
+}
+.redux-container{
+	background:url("../../img/framework_added_img/background.png") repeat;
+    margin-top: -15px;
+    overflow: hidden;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: #fff;
+    border-width: 5px;
+}
+.redux-container #redux-header .display_header{
+	float: right;
+	margin: 0px 20px;
+	color: #fff;
+	text-align: right;
+}
+.redux-container #redux-header:before{
+	content: '';
+	display: block;
+    position: relative;
+    overflow: hidden;
+    float: left;
+    width: 200px;	
+    height: 70px;
+    background:url("../../img/framework_added_img/cws.png") no-repeat;
+	background-size: 63px 35px;
+	background-position: 35px 15px;
+	z-index: 2;
+}
+.redux-container #redux-header:after{
+	content: '';
+	display: inline-block;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 100px;
+	width: 200px;
+	-webkit-transform: skew(30deg);
+	-moz-transform: skew(30deg);
+	-ms-transform: skew(30deg);
+	transform: skew(30deg);
+	background: linear-gradient(-45deg,rgba(255,255,255,0.05),rgba(255,255,255,0));
+	background: -webkit-linear-gradient(-45deg,rgba(255,255,255,0.05),rgba(255,255,255,0));
+	background: -moz-linear-gradient(-45deg,rgba(255,255,255,0.05),rgba(255,255,255,0));
+	background: -ms-linear-gradient(-45deg,rgba(255,255,255,0.05),rgba(255,255,255,0));
+	z-index: 1;
+}
+.redux-container #redux-header .display_header h2{
+	display: block;
+    font-style: normal;
+    color: #fff;
+    padding-right: 5px;
+    line-height: 1em;
+    padding-top: 13px;
+}
+.redux-container #redux-header .display_header span{
+	font-size: 13px;
+	padding-right: 5px;
+	margin-bottom: 9px;
+	display: block;
+}
+.redux-container #redux-header .display_header .redux-dev-mode-notice-container{
+	top: 50px;
+	left: 30px;
+	z-index: 2;
+}
+.redux-container #redux-intro-text{
+	background:url("../../img/framework_added_img/background.png") repeat !important;
+	border: none;
+	padding-left: 30px;
+}
+.redux-sidebar .redux-group-menu li:first-child>a{
+	border-top: 1px solid rgba(255,255,255,0.3);
+}
+.redux-sidebar .redux-group-menu li a{
+	border-bottom-color: rgba(255,255,255,0.3);
+}
+.redux-sidebar .redux-group-menu li a{
+	color: #fff;
+	opacity: 1;
+	font-weight: 400;
+}
+.redux-sidebar .redux-group-menu li.active a, 
+.redux-sidebar .redux-group-menu li:hover a,
+.redux-sidebar .redux-group-menu li.active a, 
+.redux-sidebar .redux-group-menu li.active a:hover, 
+.redux-sidebar .redux-group-menu li.activeChild a, 
+.redux-sidebar .redux-group-menu li.activeChild a:hover,
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections a{
+	background: #0074a2;
+	color: #fff !important;
+}
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a{
+	background: rgba(0,0,0,0.2);
+}
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a:hover{
+	background: rgba(0,0,0,0.4);
+}
+.redux-sidebar ul .subsection{
+	background: rgba(255, 255, 255, 0.1);
+}
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li.active a{
+	background: rgba(0,0,0,0.6);
+}
+.redux-main{
+	border-left: 0;
+}
+.redux-container #redux-footer #redux-share{
+	font-size: 18px;
+}
+.form-table>tbody>tr>th{
+	width: 200px;
+}
+.form-table select{
+	width: 250px;
+}
+.redux-container-multi_text ul.redux-multi-text>li{
+	padding-bottom: 10px;
+}
+
+.redux-container .ui-accordion .ui-accordion-header{
+    border: 1px solid #dfdfdf;
+    cursor: move;
+    font-weight: 700;
+    padding: 0 10px;
+    margin-bottom: 0;
+    height: 40px;
+    line-height: 40px;
+    font-size: 18px;
+    background-color: #f1f1f1;
+    background-image: -ms-linear-gradient(top, #f9f9f9, #ececec);
+    background-image: -moz-linear-gradient(top, #f9f9f9, #ececec);
+    background-image: -o-linear-gradient(top, #f9f9f9, #ececec);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#f9f9f9), to(#ececec));
+    background-image: -webkit-linear-gradient(top, #f9f9f9, #ececec);
+    background-image: linear-gradient(top, #f9f9f9, #ececec);
+    overflow: hidden;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    -moz-box-shadow: inset 0 1px 0 #fff;
+    -webkit-box-shadow: inset 0 1px 0 #fff;
+    box-shadow: inset 0 1px 0 #fff;
+    text-align: center;
+}
+.redux-groups-accordion .redux-groups-accordion-group{
+	margin-bottom: 10px;
+}
+.redux-container .ui-accordion.redux-groups-accordion{
+	width: 400px;
+}
+.redux-container .ui-accordion .ui-accordion-header-active{
+	border-bottom: 1px solid #dfdfdf;
+}
+.redux-groups-accordion .redux-groups-accordion-group h4{
+	margin: 0;
+}
+.redux-groups-accordion .redux-groups-accordion-group .redux-select-item.font-icons.fa.group{
+	width: 100% !important;
+}
+.redux-groups-accordion .redux-groups-accordion-group .redux-field-container{
+	padding: 10px 0 0;
+}
+.redux-groups-accordion .redux-groups-accordion-group .redux-field-container input.regular-text{
+	width: 100%;
+}
+.redux-groups-accordion .form-table tr>td{
+	padding: 15px 0 !important;
+}
+.redux-container  .ui-accordion .redux-groups-accordion-group .ui-accordion-content{
+	padding: 0 2.2em 1em;
+}
